@@ -11,7 +11,7 @@ body {
   background-color: #5C4033;
 }
 
-.navbar a {
+.topnav a {
     text-decoration: none;
     color: #C4915E;
     font-size: 25px;
@@ -37,6 +37,6 @@ body {
 
 }
 
-.navbar a:hover {
+.topnav a:hover {
   color: #A16E3b;
 }
