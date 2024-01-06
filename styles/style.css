@@ -1,1 +1,27 @@
+.header {
+  Text-align: center;
+  font-size: 30px;
+}
 
+body {
+  background-color: #F9ECAC;
+}
+
+nav {
+  background-color: #4B2D0B;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #C4915E;
+}
+
+.navbar-left {
+  float: left;
+  width: 33%;
+}
+
+.navbar-right {
+  float: right;
+  width: 60%
+}
