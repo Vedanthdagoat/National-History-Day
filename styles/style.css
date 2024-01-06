@@ -7,11 +7,11 @@ body {
   background-color: #F9ECAC;
 }
 
-.topnav {
+.navbar {
   background-color: #5C4033;
 }
 
-.topnav a {
+.navbar a {
     text-decoration: none;
     color: #C4915E;
     font-size: 25px;
@@ -37,6 +37,6 @@ body {
 
 }
 
-.topnav a:hover {
+.navbar a:hover {
   color: #A16E3b;
 }
