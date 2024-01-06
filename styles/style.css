@@ -8,12 +8,13 @@ body {
 }
 
 nav {
-  background-color: #4B2D0B;
+  background-color: brown;
 }
 
 .navbar a {
     text-decoration: none;
     color: #C4915E;
+    font-size: 20px;
 }
 
 .navbar-left {
@@ -23,5 +24,5 @@ nav {
 
 .navbar-right {
   float: right;
-  width: 60%
+  width: 40%
 }
