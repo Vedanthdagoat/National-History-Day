@@ -32,8 +32,9 @@ body {
 
 .headers {
   text-align: left
+  color: brown;
 }
 
 .navbar a:hover {
-  color: #593D20
+  color: #A16E3b;
 }
