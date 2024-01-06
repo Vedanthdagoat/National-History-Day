@@ -49,15 +49,13 @@ button .Antietam {
   float: left;
   padding-left: 50px;
   font-size: 25px;
-  color: #FFD700;
-  border-radius: 4px;
 }
 
 .top-buttons {
   padding-left:50px;
 }
 
-.battle-buttons span:after {
+.Antietam span:after {
   content: '\00bb';
   position: absolute;
   opacity: 0;
