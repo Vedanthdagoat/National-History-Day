@@ -41,16 +41,19 @@ body {
   color: #A16E3b;
 }
 
-button {
-  height: 50px;
-  width: 90px;
-  border-color: #FFD700;
-  border-width: 3px;
-  float: left;
-  padding-left: 50px;
+.Battle-Buttons {
+  color: #FFD700;
+  text-align: center;
   font-size: 25px;
+  margin: 4px 2px;
+  display: inline-block;
+  border-radius: 12px;
+  border: 2px solid #5C4033;
+  transition-duration: 0.4s;
+  width: 250px
 }
 
-.top-buttons {
-  padding-left:50px;
+.Battle-Buttons:hover {
+  background-color: black;
+  color: #F9ECAC;
 }
