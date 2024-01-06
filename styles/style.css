@@ -34,6 +34,7 @@ body {
 .headers {
   text-align: left
   color: brown;
+  padding-left: 25px;
 }
 
 .navbar a:hover {
