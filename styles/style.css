@@ -52,3 +52,7 @@ button .Antietam {
   font-size: 25px;
   color: #FFD700;
 }
+
+.top-buttons {
+  padding-left:50px;
+}
