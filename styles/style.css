@@ -42,19 +42,23 @@ body {
 }
 
 .Battle-Buttons {
-  color: #FFD700;
   background-color: #452A1D;
   text-align: center;
   font-size: 35px;
   margin: 4px 2px;
   display: inline-block;
   border-radius: 12px;
-  border: 2px solid #FFD700;
+  border: 4px #FFD700;
   transition-duration: 0.4s;
   width: 400px;
 }
 
-.Battle-Buttons:hover {
+.Battle-Buttons a {
+  text-decoration: none;
+  color: #FFD700; 
+}
+
+.Battle-Buttons a:hover {
   background-color: black;
   color: #F9ECAC;
 }
