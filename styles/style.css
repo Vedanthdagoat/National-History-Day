@@ -58,7 +58,7 @@ body {
   color: #FFD700; 
 }
 
-.Battle-Buttons a:hover {
+.Battle-Buttons:hover {
   background-color: black;
   color: #F9ECAC;
 }
