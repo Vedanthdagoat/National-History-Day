@@ -8,7 +8,7 @@ body {
 }
 
 .navbar {
-  background-color: black !important;
+  background-color: #6E260E !important;
 }
 
 .navbar a {
@@ -39,4 +39,14 @@ body {
 
 .navbar a:hover {
   color: #A16E3b;
+}
+
+.battles-top-left {
+  height: 50px;
+  width: 90px;
+  border-color: #FFD700;
+  border-width: 3px;
+  font-size: 25px;
+  float: left;
+  width: 33%;
 }
