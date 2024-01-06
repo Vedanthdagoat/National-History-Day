@@ -7,8 +7,8 @@ body {
   background-color: #F9ECAC;
 }
 
-.navbar {
-  background-color: rgb(165, 42, 42);
+nav {
+  background-color: #5C4033;
 }
 
 .navbar a {
@@ -20,14 +20,20 @@ body {
 .navbar-left {
   float: left;
   width: 33%;
+  padding-left: 25px;
 }
 
 .navbar-right {
   float: right;
   text-align: right;
   width: 40%;
+  padding-right: 25px;
 }
 
 .headers {
   text-align: left
+}
+
+.navbar a:hover {
+  color: #593D20
 }
