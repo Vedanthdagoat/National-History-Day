@@ -41,13 +41,13 @@ body {
   color: #A16E3b;
 }
 
-.battles-top-left {
+.Antietam {
   height: 50px;
   width: 90px;
   border-color: #FFD700;
   border-width: 3px;
-  font-size: 25px;
   float: left;
   width: 33%;
   padding-left: 50px;
+  font-size: 25px;
 }
