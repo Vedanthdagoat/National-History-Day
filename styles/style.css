@@ -15,7 +15,6 @@ body {
     text-decoration: none;
     color: #C4915E;
     font-size: 25px;
-    background-color: #5C4033;
 }
 
 .navbar-left {
@@ -33,11 +32,15 @@ body {
 
 .headers {
   text-align: left;
-  color: brown;
+  color: #5C4033;
   padding-left: 30px;
 
 }
 
 .navbar a:hover {
   color: #A16E3b;
+}
+
+head {
+  background-color: brown;
 }
