@@ -65,4 +65,11 @@ body {
 
 .Battle-Buttons a:hover {
   color: #F9ECAC;
+  transition-duration: 0.4s;
+}
+
+.descriptions {
+  color: #452A1D;
+  font-size: 20px;
+  text-align: left;
 }
