@@ -51,6 +51,7 @@ body {
   border: 4px #FFD700;
   transition-duration: 0.4s;
   width: 400px;
+  padding: 2px 8px;
 }
 
 .Battle-Buttons a {
