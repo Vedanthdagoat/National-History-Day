@@ -9,27 +9,20 @@ body {
   padding-right: 40px;
 }
 
-.navbar {
-  background-color: #6E260E !important;
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #FFD700;
 }
 
-.navbar a {
-    text-decoration: none;
-    color: #C4915E;
-    font-size: 25px;
-}
-
-.navbar-left {
-  float: left;
-  width: 33%;
-  padding-left: 25px;
-}
-
-.navbar-right {
-  float: right;
-  text-align: right;
-  width: 50%;
-  padding-right: 25px;
+li a {
+  display: block;
+  color: #F9ECAC;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
 }
 
 .headers {
