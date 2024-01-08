@@ -75,3 +75,8 @@ body {
   font-size: 27px;
   text-align: left;
 }
+
+.people-images {
+  float: left;
+  padding: 60px;
+}
